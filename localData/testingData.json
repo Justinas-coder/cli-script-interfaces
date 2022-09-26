@@ -1,0 +1,50 @@
+[{
+"offerId": 123,
+"productTitle": "Coffee machine",
+"vendorId": 35,
+"price": 390.4,
+"numberInStock": 5
+},
+{
+"offerId": 124,
+"productTitle": "Coffee beans",
+"vendorId": 35,
+"price": 12,
+"numberInStock": 15
+},
+  {
+    "offerId": 124,
+    "productTitle": "Napkins",
+    "vendorId": 35,
+    "price": 15.5,
+    "numberInStock": 15
+  },
+  {
+    "offerId": 127,
+    "productTitle": "Dogogo",
+    "vendorId": 35,
+    "price": 87,
+    "numberInStock": 15
+  },
+  {
+    "offerId": 123,
+    "productTitle": "Dumplings",
+    "vendorId": 35,
+    "price": 56,
+    "numberInStock": 2
+  },
+  {
+    "offerId": 121,
+    "productTitle": "Napkins",
+    "vendorId": 36,
+    "price": 15.5,
+    "numberInStock": 15
+  },
+{
+"offerId": 125,
+"productTitle": "Chair",
+"vendorId": 84,
+"price": 230.0,
+"numberInStock": 0
+}]
+
